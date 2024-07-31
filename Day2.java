@@ -1,5 +1,5 @@
-2. End-of-file
-/*The challenge here is to read  lines of input until you reach EOF, then number and print all  lines of content.
+/*2. End-of-file
+The challenge here is to read  lines of input until you reach EOF, then number and print all  lines of content.
 
 Hint: Java's Scanner.hasNext() method is helpful for this problem.
 
@@ -19,9 +19,9 @@ Read me until end-of-file.
 Sample Output:
 1 Hello world
 2 I am a file
-3 Read me until end-of-file.*/
+3 Read me until end-of-file.
 
-Code:--
+Code:--*/
 import java.io.*;
 import java.util.*;
 import java.text.*;
